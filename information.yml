@@ -1,0 +1,9 @@
+name: PHS
+version: 1.0.1
+description: Makes a personal host server in JS that the host can use.
+author:
+  name: Isayiwantacost
+  url: https://github.com/isayiwantacost/Personal-Host-Server
+homepage: https://github.com/isayiwantacost/Personal-Host-Server
+readme: https://github.com/isayiwantacost/Personal-Host-Server/blob/main/README.md
+license: MIT
