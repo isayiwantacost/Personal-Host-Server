@@ -1,5 +1,4 @@
 <center>
-## Your own personal host server.
 <br>
 <summary> How does it work? </summary>
 <br>
@@ -20,7 +19,7 @@
 <br>
 <br>
 <br>
-<h1> After that, go to your browser and type in "localhost:8080" </h1>
+<summary> After that, go to your browser and type in "localhost:8080" </summary>
 <br>
 <br>
-<h1> That is how you work this PHS! </h1>
+<summary> That is how you work this PHS! </summary>
