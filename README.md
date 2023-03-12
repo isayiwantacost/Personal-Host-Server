@@ -22,4 +22,11 @@
 <summary> After that, go to your browser and type in "localhost:8080" </summary>
 <br>
 <br>
+<video width="400" controls>
+  <source src=".\extra\demonstration.webm" type="video/webm">
+  Your browser does not support HTML video.
+  </video>
+<br>
+<br>
 <summary> That is how you work this PHS! </summary>
+
