@@ -15,7 +15,7 @@
 <summary> cd C:\Users\{YOURNAME}\OneDrive\Desktop </summary>
 <br>
 <br>
-<summary>node indexjs.js</summary>
+<summary>node index.js</summary>
 <br>
 <br>
 <br>
