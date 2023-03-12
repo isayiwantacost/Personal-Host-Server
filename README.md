@@ -23,7 +23,7 @@
 <br>
 <br>
 <video width="400" controls>
-  <source src="\extra\demonstration.webm" type="video/webm">
+  <source src="\extra\demonstration.webm" type="video/mp4">
   Your browser does not support HTML video.
   </video>
 <br>
