@@ -22,11 +22,6 @@
 <summary> After that, go to your browser and type in "localhost:8080" </summary>
 <br>
 <br>
-<video width="400" controls>
-  <source src="\extra\2023-03-12 15-09-46.mov" type="video/mp4">
-  Your browser does not support HTML video.
-  </video>
-<br>
 <br>
 <summary> That is how you work this PHS! </summary>
 
