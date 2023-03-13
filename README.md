@@ -22,6 +22,7 @@ https://www.w3schools.com/typescript/typescript_getstarted.php
 <summary> After that, go to your browser and type in "localhost:8080" </summary>
 <br>
 <br>
+<summary> The Localhost:3000 method is easier and more accesible and more widely used. </summary>
 <br>
 <summary> That is how you work this PHS! </summary>
 
