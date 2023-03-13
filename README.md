@@ -5,7 +5,7 @@
 <br>
 <p> First off you need to install NODE.JS and NPM to make this work. If you haven't already, heres a tutorial how to: </p>
 <br>
-https://www.w3schools.com/typescript/typescript_getstarted.php
+https://www.youtube.com/watch?v=qYwLOXjAiwM&ab_channel=Simplilearn
 <br>
 <p> After that, install the SRC Code and then go to your Command Prompt, or whatever your terminal is called on your OS. </p>
 <br>
