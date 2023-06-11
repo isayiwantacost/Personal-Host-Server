@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=qYwLOXjAiwM&ab_channel=Simplilearn
 <summary>node index.js</summary>
 <br>
 <br>
-<summary> After that, go to your browser and type in "localhost:8080" </summary>
+<summary> After that, go to your browser and type in "localhost:[addthenumberthingyhere]" </summary>
 <br>
 <br>
 <summary> That is how you work this PHS! </summary>
